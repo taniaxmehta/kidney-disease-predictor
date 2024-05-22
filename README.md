@@ -1,4 +1,4 @@
-# Kidney Disease Prediction with Deep Learning and AI
+# Chronic Kidney Disease Prediction
 Chronic Kidney Disease (CKD) is a medical condition characterized by the progressive loss of kidney function, impairing their ability to filter blood effectively. It poses significant complications and affects approximately 10% of Indians, with millions more at heightened risk. The dataset is tailored to the Indian population, emphasizing the importance of early detection for potentially life-saving interventions. Timely intervention can prevent the progression of kidney disease to kidney failure, underscoring the critical need for proactive healthcare measures.
 
 ## Exploratory Data Analysis
